@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    /* border: solid red 1px; */
+    text-align: center;
+   
+    color: white;
+  
+ 
+}
+.bookingbook{
+  
+        margin: auto;
+        width: 70%;
+        /* border: solid red 1px; */
+        margin-top: 10px;
+        height: 800px;
+        display: flex;
+        flex-wrap: wrap;
+   
+}
+.boxbook{
+    /* border: solid black 1px; */
+   margin: 10px;
+   width: 23%;
+   height: 45%;
+   display: flex;
+   flex-direction: column;
+  
+}
+.images{
+    height: 70%;
+}
+.price
+{
+    height: 12%;
+    /* border: solid red 1px; */
+}
+.bigbooking{
+    background-color: black;
+    padding: 30px;
+}
